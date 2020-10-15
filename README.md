@@ -1,2 +1,2 @@
 # BullsEyeGame
-JavaFX - Exercise1: Bullseye Challenge
+JavaFX - Bullseye Challenge
